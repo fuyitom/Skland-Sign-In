@@ -22,7 +22,7 @@ cron: "0 1 * * *"
 
 users:
   - nickname: "我的大号"
-    token: "这里填入教程中获取的Token"
+    token: "yes9qZVESKn/z2fqzYxIHhKp"
     game_type: 0
 
 #  - nickname: "我的小号"
